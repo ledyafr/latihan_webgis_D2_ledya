@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:fileIdentifier>
+<gco:CharacterString>1451921561442r5971286166986055</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:contactInfo gco:nilReason="missing"/>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<dateStamp>
+<gco:Date>2015-11-15</gco:Date>
+</dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>NAP - Metadata</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>1.2</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:spatialRepresentationInfo>
+<gmd:MD_VectorSpatialRepresentation>
+<gmd:topologyLevel>
+<gmd:MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</gmd:MD_TopologyLevelCode>
+</gmd:topologyLevel>
+<gmd:geometricObjects>
+<gmd:MD_GeometricObjects>
+<gmd:geometricObjectType>
+<gmd:MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</gmd:MD_GeometricObjectTypeCode>
+</gmd:geometricObjectType>
+</gmd:MD_GeometricObjects>
+</gmd:geometricObjects>
+</gmd:MD_VectorSpatialRepresentation>
+</gmd:spatialRepresentationInfo>
+<gmd:referenceSystemInfo>
+<gmd:MD_ReferenceSystem>
+<gmd:referenceSystemIdentifier>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>4326</gco:CharacterString>
+</gmd:code>
+<gmd:codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</gmd:codeSpace>
+<gmd:version>
+<gco:CharacterString>8.2.6</gco:CharacterString>
+</gmd:version>
+</gmd:RS_Identifier>
+</gmd:referenceSystemIdentifier>
+</gmd:MD_ReferenceSystem>
+</gmd:referenceSystemInfo>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Oil palm concessions (select countries)</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<date gco:nilReason="unknown"/>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+<gmd:citedResponsibleParty gco:nilReason="missing"/>
+<gmd:presentationForm>
+<gmd:CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</gmd:CI_PresentationFormCode>
+</gmd:presentationForm>
+<gmd:otherCitationDetails>
+<gco:CharacterString>“Oil palm concessions.” Accessed through Global Forest Watch on [date]. www.globalforestwatch.org.</gco:CharacterString>
+</gmd:otherCitationDetails>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>“Oil palm concession” refers to an area allocated by a government or other body for industrial-scale oil palm plantations.&#13;
+&#13;
+This data set displays oil palm concessions as a single layer assembled by aggregating concession data for multiple countries. The data may come from government agencies, NGOs, or other organizations and varies by date and data sources. For more information on concession data for each country please visit the [Open Data Portal](data.globalforestwatch.org).&#13;
+&#13;
+If you are aware of concession data for additional countries, please email us [here](mailto:gfw@wri.org).</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Displays boundaries of areas allocated by governments to companies for oil palm plantations</gco:CharacterString>
+</gmd:purpose>
+<gmd:status gco:nilReason="missing"/>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Asa Strong</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>World Resources Institute</gco:CharacterString>
+</gmd:organisationName>
+<gmd:positionName>
+<gco:CharacterString>Research Assistant</gco:CharacterString>
+</gmd:positionName>
+<gmd:contactInfo gco:nilReason="missing"/>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:resourceMaintenance>
+<gmd:MD_MaintenanceInformation>
+<gmd:maintenanceAndUpdateFrequency>
+<gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+</gmd:maintenanceAndUpdateFrequency>
+<gmd:userDefinedMaintenanceFrequency>
+<gts:TM_PeriodDuration>Variable, depending on government agencies and other data providers</gts:TM_PeriodDuration>
+</gmd:userDefinedMaintenanceFrequency>
+</gmd:MD_MaintenanceInformation>
+</gmd:resourceMaintenance>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>liberia</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>cameroon</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>congo</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>indonesia</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>liberia</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>cameroon</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>congo</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>indonesia</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>liberia</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>cameroon</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>congo</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>indonesia</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>liberia</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>cameroon</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>congo</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>indonesia</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>oil palm</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>plantations</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>agro-industrial</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>oil palm</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>plantations</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>agro-industrial</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>oil palm</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>plantations</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>agro-industrial</gco:CharacterString>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>This layer is a compilation of concession data from various countries and sources. The quality of these data can vary depending on the source. This layer may not include all existing concessions in a country, and the location of certain concessions can be inaccurate.</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:spatialRepresentationType>
+<gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</gmd:MD_SpatialRepresentationTypeCode>
+</gmd:spatialRepresentationType>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:environmentDescription>
+<gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.0.4322</gco:CharacterString>
+</gmd:environmentDescription>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:description>
+<gco:CharacterString>Currently available for Cameroon, Indonesia, Liberia, and Republic of Congo</gco:CharacterString>
+</gmd:description>
+<gmd:geographicElement>
+<gmd:EX_GeographicBoundingBox>
+<gmd:westBoundLongitude>
+<gco:Decimal>-11.137482</gco:Decimal>
+</gmd:westBoundLongitude>
+<gmd:eastBoundLongitude>
+<gco:Decimal>140.944868</gco:Decimal>
+</gmd:eastBoundLongitude>
+<gmd:southBoundLatitude>
+<gco:Decimal>-8.280545</gco:Decimal>
+</gmd:southBoundLatitude>
+<gmd:northBoundLatitude>
+<gco:Decimal>7.322201</gco:Decimal>
+</gmd:northBoundLatitude>
+</gmd:EX_GeographicBoundingBox>
+</gmd:geographicElement>
+</gmd:EX_Extent>
+</gmd:extent>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:geographicElement>
+<gmd:EX_GeographicBoundingBox>
+<gmd:extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</gmd:extentTypeCode>
+<gmd:westBoundLongitude>
+<gco:Decimal>-11.137482</gco:Decimal>
+</gmd:westBoundLongitude>
+<gmd:eastBoundLongitude>
+<gco:Decimal>140.944868</gco:Decimal>
+</gmd:eastBoundLongitude>
+<gmd:southBoundLatitude>
+<gco:Decimal>-8.280545</gco:Decimal>
+</gmd:southBoundLatitude>
+<gmd:northBoundLatitude>
+<gco:Decimal>7.322201</gco:Decimal>
+</gmd:northBoundLatitude>
+</gmd:EX_GeographicBoundingBox>
+</gmd:geographicElement>
+</gmd:EX_Extent>
+</gmd:extent>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:distributionFormat>
+<gmd:MD_Format>
+<gmd:name>
+<gco:CharacterString>File Geodatabase Feature Class</gco:CharacterString>
+</gmd:name>
+<gmd:version gco:nilReason="missing"/>
+</gmd:MD_Format>
+</gmd:distributionFormat>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/forest_use/oil_palm/zip/gfw_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing"/>
+<gmd:name>
+<gco:CharacterString>Direct Full Download</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/cmr/zip/cmr_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing"/>
+<gmd:name>
+<gco:CharacterString>Download for Cameroon</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/cog/zip/cog_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing"/>
+<gmd:name>
+<gco:CharacterString>Download for Republic of Congo</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/idn/zip/idn_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing"/>
+<gmd:name>
+<gco:CharacterString>Download for Indonesia</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/lbr/zip/lbr_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing"/>
+<gmd:name>
+<gco:CharacterString>Download for Liberia</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope>
+<gmd:DQ_Scope>
+<gmd:level>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:level>
+</gmd:DQ_Scope>
+</gmd:scope>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>Cameroon: WRI
+Indonesia: Ministry of Forestry
+Liberia: Global Witness
+Republic of Congo: WRI &amp; Ministry of Agriculture</gco:CharacterString>
+</gmd:description>
+</gmd:LI_Source>
+</gmd:source>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>Generally based on a combination of government documents, satellite imagery, and GPS data</gco:CharacterString>
+</gmd:description>
+</gmd:LI_Source>
+</gmd:source>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+</gmd:MD_Metadata>

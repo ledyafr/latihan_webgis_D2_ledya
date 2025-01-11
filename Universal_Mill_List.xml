@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact gco:nilReason="missing"/>
+<dateStamp gco:nilReason="missing"/>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Palm Oil Mills</gco:CharacterString>
+</title>
+<date gco:nilReason="missing"/>
+<identifier>
+<MD_Identifier>
+<authority>
+<CI_Citation>
+<title gco:nilReason="missing"/>
+<date gco:nilReason="missing"/>
+<identifier>
+<MD_Identifier>
+<authority>
+<CI_Citation>
+<title gco:nilReason="missing"/>
+<date gco:nilReason="missing"/>
+</CI_Citation>
+</authority>
+<code gco:nilReason="missing"/>
+</MD_Identifier>
+</identifier>
+</CI_Citation>
+</authority>
+<code gco:nilReason="missing"/>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<contactInfo>
+<CI_Contact>
+<onlineResource>
+<CI_OnlineResource>
+<linkage>
+<URL>withheld</URL>
+</linkage>
+</CI_OnlineResource>
+</onlineResource>
+</CI_Contact>
+</contactInfo>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<otherCitationDetails>
+<gco:CharacterString>World Resources Institute, Rainforest Alliance, Proforest, and Daemeter. “Universal Mill List.” October 2018. Accessed through Global Forest Watch on [date]. www.globalforestwatch.org</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>The Universal Mill List (UML) is a collection of palm oil mill locations across the world based on data contributed from processors, traders and consumer goods manufacturers, the Roundtable on Sustainable Palm Oil (RSPO), and FoodReg. The resulting data set is not a complete representation of all palm oil mills globally, but provides a robust and rigorously verified collection of mills in major supply chains. The harmonization of data and the verification of each of the mill locations was a joint effort from the World Resources Institute (WRI), Rainforest Alliance (RA), Proforest and Daemeter.The UML is created and updated according to a standardized process, as detailed in the “Universal Mill List Methodology” (WRI and RA, in press). All mill locations are manually verified using high resolution satellite imagery according to criteria for mill infrastructure, including the presence of buildings, settling ponds, and nearby palm oil plantations. Duplicate mills are identified and removed according to an analysis to identify exact and nearby GPS location duplicates. Verified, unique mill locations are assigned “universal IDs” and added to the UML. Mill name and parent company information are based on the best available data, but may still have inaccuracies. The RSPO certification status is the status of each mill at a specific cut-off date, available in the attribute data. RSPO certification statuses are updated every day, so current statuses may be different than the ones listed in the attribute table. Please check for up-to-date mill certification status at RSPO Palm Trace, here:  https://www.rspo.org/certification/certified-growers-search The dataset is updated roughly every 6 months as new data becomes available. </gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>Displays the location of palm oil mills.</gco:CharacterString>
+</purpose>
+<pointOfContact>
+<CI_ResponsibleParty>
+<contactInfo>
+<CI_Contact>
+<onlineResource>
+<CI_OnlineResource>
+<linkage>
+<URL>withheld</URL>
+</linkage>
+</CI_OnlineResource>
+</onlineResource>
+</CI_Contact>
+</contactInfo>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency gco:nilReason="missing"/>
+<userDefinedMaintenanceFrequency>
+<gts:TM_PeriodDuration>Every 6 months</gts:TM_PeriodDuration>
+</userDefinedMaintenanceFrequency>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) </gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<language gco:nilReason="missing"/>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<extent>
+<EX_Extent>
+<description>
+<gco:CharacterString>Global</gco:CharacterString>
+</description>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>&lt;p&gt;This data set is not a complete representation of all palm oil mills, and only includes those within the supply chains of companies submitting mill data to WRI, Proforest, Daemeter, or Rainforest Alliance and RSPO Palm Trace. Some mills may have duplicate or unknown names due to missing information. Mill name and group name information are based on the best available data and may have inaccuracies.&lt;/p&gt;</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<distributionInfo>
+<MD_Distribution>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<onLine>
+<CI_OnlineResource>
+<linkage>
+<URL>http://gfw2-data.s3.amazonaws.com/commodities/zip/Universal_Mill_List.zip</URL>
+</linkage>
+<name>
+<gco:CharacterString>Direct Download</gco:CharacterString>
+</name>
+<function>
+<CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+</function>
+</CI_OnlineResource>
+</onLine>
+</MD_DigitalTransferOptions>
+</transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope gco:nilReason="missing"/>
+<lineage>
+<LI_Lineage>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>WRI, Rainforest Alliance, Proforest, Daemeter</gco:CharacterString>
+</description>
+<sourceReferenceSystem>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<authority>
+<CI_Citation>
+<title gco:nilReason="missing"/>
+<date gco:nilReason="missing"/>
+</CI_Citation>
+</authority>
+<code gco:nilReason="missing"/>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</sourceReferenceSystem>
+</LI_Source>
+</source>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+</MD_Metadata>
